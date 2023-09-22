@@ -27,3 +27,12 @@ For detailed instructions and usage, please refer to the [Two-Agent Communicatio
 Choose the project that interests you or explore both to leverage uAgents for various use cases.
 
 Happy coding and experimenting with uAgents! 🚀🤖
+
+## Video Explanation 🎥
+
+For a more detailed overview and step-by-step walkthrough of the projects included in this repository, watch our video explanation below:
+
+Youtube Link: https://youtu.be/SKqWiv3K6IM
+
+Gdrive Link: https://drive.google.com/file/d/1GOmE0o4lgdCpiaaAMgimHn6XrsCokBrJ/view?usp=sharing
+

@@ -58,3 +58,11 @@ Here's an example of how to use the Temperature Monitoring Agent:
 Now you can stay informed about temperature changes in your selected location!
 
 Enjoy monitoring temperatures with SMS notifications! 🌡️📲
+
+## Video Explanation 🎥
+
+For a more detailed overview and step-by-step walkthrough of the projects included in this repository, watch our video explanation below:
+
+Youtube Link: https://youtu.be/SKqWiv3K6IM
+
+Gdrive Link: https://drive.google.com/file/d/1GOmE0o4lgdCpiaaAMgimHn6XrsCokBrJ/view?usp=sharing

@@ -29,6 +29,7 @@ To use the Temperature Monitoring Agent to notify Bob when the temperature chang
 
   ```shell
   python temperature_agent.py
+  python agent-bob.py
   ```
 -**Ensure that Bob is running and ready to receive notifications.**
 

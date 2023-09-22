@@ -11,7 +11,7 @@ The SMS Notification Agent project focuses on sending SMS notifications based on
 - SMS notifications using the Sinch SMS API.
 - Environment variable setup for API keys.
 
-For detailed instructions and usage, please refer to the [SMS Notification Agent README](https://github.com/mrbhatt2348/temperature-agent/tree/main/SMS-Notification-with-uagent).
+For detailed instructions and usage, please refer to the [SMS Notification Agent README](https://github.com/mrbhatt2348/Fetch.ai-Hackathon-Project/tree/main/SMS-Notification-with-uagent).
 
 ## Project 2: Two-Agent Communication 🤖🤝
 
@@ -22,7 +22,7 @@ The Two-Agent Communication project illustrates how two uAgents, a Temperature M
 - uAgent setup for remote communication.
 - Configurable temperature thresholds.
 
-For detailed instructions and usage, please refer to the [Two-Agent Communication README](https://github.com/mrbhatt2348/temperature-agent/tree/main/Communication_between_2_uagents).
+For detailed instructions and usage, please refer to the [Two-Agent Communication README](https://github.com/mrbhatt2348/Fetch.ai-Hackathon-Project/tree/main/Communication_between_2_uagents).
 
 Choose the project that interests you or explore both to leverage uAgents for various use cases.
 

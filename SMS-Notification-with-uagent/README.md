@@ -37,7 +37,7 @@ poetry install
 To run the Temperature Monitoring Agent:
 
 ```shell 
-python temperature_agent.py
+python main.py
 ```
 
 - **Enter the city you want to monitor for temperature.**

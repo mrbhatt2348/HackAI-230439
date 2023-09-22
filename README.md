@@ -1,8 +1,8 @@
-# uAgent Projects - SMS Notifications and Two-Agent Communication 🚀🤖
+# uAgent Projects - Temperature Monitoring Agent (2 implementation) 🚀🤖
 
 This repository contains two distinct projects demonstrating different uAgent functionalities. Each project serves a specific purpose and showcases the capabilities of uAgents.
 
-## Project 1: SMS Notification Agent 📲
+## Project 1: Temperature Agent which notifies user by a SMS in their mobile phones📲
 
 The SMS Notification Agent project focuses on sending SMS notifications based on temperature readings. It uses the uAgents framework to monitor temperature and notify users via SMS when specific conditions are met.
 
@@ -13,7 +13,7 @@ The SMS Notification Agent project focuses on sending SMS notifications based on
 
 For detailed instructions and usage, please refer to the [SMS Notification Agent README](https://github.com/mrbhatt2348/Fetch.ai-Hackathon-Project/tree/main/SMS-Notification-with-uagent).
 
-## Project 2: Two-Agent Communication 🤖🤝
+## Project 2: Temperature Agent which notifies another uagent in a remote communication channel📲 🤖🤝
 
 The Two-Agent Communication project illustrates how two uAgents, a Temperature Monitoring Agent and another agent (Bob), can communicate remotely. When the temperature changes in the selected location, the Temperature Monitoring Agent notifies Bob, demonstrating remote agent communication.
 

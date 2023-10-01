@@ -1,4 +1,4 @@
-# uAgent Projects - Temperature Monitoring Agent (2 implementations) 🚀🤖
+# uAgent Projects - Temperature Monitoring Agent (2 implementations) 🚀🤖 
 
 The main theme of this project is that, the user gets the capability of monitoring the temperature in his/her selected city, and the temperature range in that city, if the temperature falls below the minimum temperature specified by the user, or the temperature rises above the maximum temperature specified by the user, the user gets notified. Here I have implemented the given theme in 2 different ways, in the first one the user gets the notification by a sms in their mobile phones and in the later one the user which is in fact an other uagent, gets notified on a remote communication server. 
 This repository contains two distinct projects demonstrating different uAgent functionalities. Each project serves a specific purpose and showcases the capabilities of uAgents.
